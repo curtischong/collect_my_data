@@ -1,4 +1,4 @@
-# personal_data_collection
+# collect_my_data
 
 I want to collect data about myself because it's been a project I've always wanted to do but never got around to doing it. Most trackers like Habitica often fall out of use and I couldn't think of a decent way to track what I'm doing until now. I know I can open up google sheets and fill in the oclumns myself but I want to lower the barrier to data logging. So I'll write an ios app to put on my phone and tablet
 
@@ -52,8 +52,4 @@ My goal is to form a sort of schedule of my daily habits and track if I'm actual
 A SOLID PROTOTYPE OF THIS WILL BE OUT ON APRIL 20TH. (Sorry Kaggle and ml in cpp. dw I have decent plans for you two :) )
 
 
-I guess a part of why I'm doing this is to help myself refocus. This is a terrible analogy but I think of this as Ghenghis Khan's 3-month mongol hunt to bring his two brothers close together. Refocusing on his goals. Brilliant.\
-
-
-
-# collect_my_data
+I guess a part of why I'm doing this is to help myself refocus. This is a terrible analogy but I think of this as Ghenghis Khan's 3-month mongol hunt to bring his two brothers close together. Refocusing on his goals. Brilliant.
