@@ -21,7 +21,6 @@ Schedule-based / Actions-based
  - number of hours of TV shows/ Films (tbh only Silicon Valley)
  - If I went out with friends
  - Number of hours I spend working
- - Number of hours I spend playing video games
  - Time I've spent talking to friends
  - When did I start dressing for work
  - When did I stop dressing for work
